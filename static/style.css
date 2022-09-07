@@ -1,0 +1,32 @@
+.navbar-custom{
+	color:white;
+	background-color:teal;
+}
+.navbar-brand{
+    margin-left: 100px;
+    color:white;
+}
+.navbar-brand:hover{
+    color:white;
+}
+main{
+    margin-top: 50px;
+}
+li .nav-link{
+    color:white;
+}
+li .nav-link:hover{
+    color:white;
+}
+.d-block{
+    color:white;
+    margin-right: 100px;
+    text-decoration: none;
+}
+.d-block:hover{
+    color:white;
+}
+.text-end{
+    float:right;
+}
+
